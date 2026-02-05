@@ -3,7 +3,7 @@
 Perfil 🕸️💻
 
 - 🔭 Estudante de Ciência da Computação na Unijorge 
-- 🌱 Desenvolvedor FUll-stack
+- 🌱 Desenvolvedor Full-stack
 - 👯 Linguagens: HTML, JavaScript, CSS, Python
 <!---- 🤔 I’m looking for help with ...
  💬 Ask me about ...
